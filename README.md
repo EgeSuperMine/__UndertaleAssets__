@@ -1,2 +1,2 @@
-# WPF-Code
-Nothing to see here, pal.
+# __UndertaleAssets__
+For Gods Sake, KEEP THIS REPO A SECRET!
